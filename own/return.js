@@ -15,7 +15,7 @@ button.style.right = '10px';
 button.style.backgroundColor = 'transparent';
 button.style.border = 'none';
 button.style.cursor = 'pointer';
-button.style.zIndex = '1900';
+button.style.zIndex = '11000';
 
 button.addEventListener('click', function() {
     window.location.href = 'https://midway.ovh';
