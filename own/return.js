@@ -10,8 +10,8 @@ img.style.filter = 'invert(100%)'
 button.appendChild(img);
 
 button.style.position = 'fixed';
-button.style.top = '10px';
-button.style.right = '10px';
+button.style.top = '15px';
+button.style.right = '50px';
 button.style.backgroundColor = 'transparent';
 button.style.border = 'none';
 button.style.cursor = 'pointer';
